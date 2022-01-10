@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pagamento_IT&amp;I</string>
+    <string name="ver_comprovante">Ver Comprovante</string>
+    <string name="payment_done_title">Pagamento feito</string>
+    <string name="payment_done_close_button">Botao Fechar</string>
+</resources>
